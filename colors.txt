@@ -1,0 +1,2 @@
+Weird green: #70887A
+Robot red: #C5110B
